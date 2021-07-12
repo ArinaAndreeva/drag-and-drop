@@ -27,6 +27,7 @@ body {
   border-radius: 20px;
   padding: 0.8rem 1rem;
   color: #fff;
+  text-align: center;
 }
 
 .item {
@@ -38,7 +39,9 @@ body {
   background: #f7f6f7;
   padding: 0.8rem 1rem;
   color: #828282;
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   cursor: grab;
 }
 
